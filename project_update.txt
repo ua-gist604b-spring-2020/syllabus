@@ -1,0 +1,12 @@
+Project check-in 11/17/2020
+Project change from web app to network analysis
+Intent of project
+-	Purpose of this project will be to use open data and the approach of Network Analysis to identify areas of potential high success for a potential hotdog stand chain. 
+Types of data to be pulled
+-	Open data source type to be pulled will be Vector Data from Denver County and the State of Colorado which will include traffic counts, pedestrian foot traffic counts, cycler counts, crime rates and opportunity zones. Other data will include Street Shapefiles and County Boundaries.
+Platform
+-	I will use the platform QGIS to conduct the analysis.
+Use of the Data
+-	I will add street data to overlay onto the map. Followed by adding points to the center of the traffic concentration areas. After around 5 points (hotdog stand locations) are plotted I will create a large buffer around the points until they all intersect and this will give me a centralized location to place my Brick and Mortar Base of operation (supply house and sit in restaurant).
+The Network Analysis
+-	After placement of locations I will use the tools that were used for the Hub lines lesson that gave me so much grief but made me realize how awesome of a resource it can be to calculate distance travelled. This will give me an estimate of the cost for fuel to place these stands.
